@@ -1,0 +1,10 @@
+python-dotenv
+# openai
+google-generativeai
+pyupbit
+pyjwt
+pandas
+pandas_ta
+schedule
+streamlit
+selenium
